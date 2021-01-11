@@ -8,7 +8,6 @@ import java.util.Scanner;
  *
  * Example:  int num = CheckInput.getInt();
  *
- * @author Shannon Cleary 2020
  */
 public class CheckInput {
 	
