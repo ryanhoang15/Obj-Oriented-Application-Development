@@ -2,7 +2,6 @@ import java.util.Random;
 
 /**
  * @author Ryan Hoang
- * @author Annie Tran
  * @Class - CECS 277
  * @Due: 10/22/2020
  */
